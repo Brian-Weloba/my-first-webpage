@@ -1,6 +1,8 @@
 h1 {
   color: blue;
   text-align: center;
+  font-style: oblique;
+  font-family: fantasy;
 }
 h2 {
   color: green;
@@ -13,6 +15,7 @@ h3 {
 }
 p {
   font-family: sans-serif;
+  background-color: rgb(179, 218, 218);
 }
 ul {
   line-height: 40px;
