@@ -7,6 +7,10 @@ h2 {
   font-style: italic;
   text-align: center;
 }
+h3 {
+  color: chocolate;
+  font-style: italic;
+}
 p {
   font-family: sans-serif;
 }
